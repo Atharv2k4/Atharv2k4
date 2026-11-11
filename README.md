@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/atharv-yadav04/"><img src="https://img.shields.io/badge/LinkedIn-atharv--yadav04-0a1020?style=flat-square&logo=linkedin&logoColor=ffb547&labelColor=0a1020" alt="LinkedIn"></a>
   <a href="mailto:atharvyadav04@gmail.com"><img src="https://img.shields.io/badge/Email-atharvyadav04%40gmail.com-0a1020?style=flat-square&logo=gmail&logoColor=ffb547&labelColor=0a1020" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open_to-Werkstudent_%26_internships-0a1020?style=flat-square&labelColor=0a1020&color=1c2c4f" alt="Open to Werkstudent and internship roles">
 </p>
 
 <br>
@@ -54,4 +53,4 @@ I'm a master's student in **Autonomy Technologies** at FAU Erlangen-Nürnberg, w
 
 <br>
 
-<sub>Erlangen, Germany · English, German (B1), Marathi, Hindi</sub>
+<sub>Based in Erlangen, Germany · English, German (B1), Marathi, Hindi · open to working-student roles</sub>
