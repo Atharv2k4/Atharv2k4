@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://atharv2k4.github.io"><img src="https://img.shields.io/badge/Portfolio-atharv2k4.github.io-0a1020?style=flat-square&logo=googlechrome&logoColor=ffb547&labelColor=0a1020" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/atharv-yadav04/"><img src="https://img.shields.io/badge/LinkedIn-atharv--yadav04-0a1020?style=flat-square&logo=linkedin&logoColor=ffb547&labelColor=0a1020" alt="LinkedIn"></a>
   <a href="mailto:atharvyadav04@gmail.com"><img src="https://img.shields.io/badge/Email-atharvyadav04%40gmail.com-0a1020?style=flat-square&logo=gmail&logoColor=ffb547&labelColor=0a1020" alt="Email"></a>
 </p>
